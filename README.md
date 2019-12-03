@@ -1,4 +1,4 @@
- #Simple Android Timer and Stopwatch.
+ #Simple Timer and Stopwatch Android App.
 <br><br>
 <b>"Timer"<b>
   <br>
